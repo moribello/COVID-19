@@ -1,20 +1,24 @@
-#COVID-19 Data Visualization
+COVID-19 Data Visualization
+===========================
 
 This project visualizes select local data from the Johns Hopkins Center for Systems Science and Engineering (CSSE) COVID-19 Data Repository. The visualizations in this project examine local data for the author's current geographical location. Currently, Python code is read and executed in Jupyter Notebook as the requirements for information visualization change; this project should definitely be considered "a work in progress".
 
 Original README.md from JH CSSE is available in the README_original.md file
 
-##Pre-requisites
+Pre-requisites
+--------------
 - Python 3
 - NumPy library
 - Pandas library
 - Matplotlib library
 - Jupyter Notebook
 
-##Getting Started
+Getting Started
+---------------
 Open the plot_test02.inpynb file in Jupyter Notebook; several options for plotting are offered and can be run line-by-line. As refinements are made additional python files will be generated and this README file updated.
 
-##Terms of use from John Hopkins:
+Terms of use from John Hopkins:
+-------------------------------
 
 1. This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 Johns Hopkins University, all rights reserved, is provided solely for non-profit public health, educational, and academic research purposes. You should not rely on this Website for medical advice or guidance.  
 2. Use of the Website by commercial parties and/or in commerce is strictly prohibited.   Redistribution of the Website or the aggregated data set underlying the Website is strictly prohibited.   
